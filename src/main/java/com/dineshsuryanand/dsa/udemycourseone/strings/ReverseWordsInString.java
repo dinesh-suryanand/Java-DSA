@@ -15,7 +15,7 @@ public class ReverseWordsInString {
 
         return reversed.toString();
     }
-    //todo c
+    //TODO complete this method, and understand System.arraycopy does
     public static String reverseWords(String s) {
         char[] str = s.toCharArray();
        //clean white spaces
