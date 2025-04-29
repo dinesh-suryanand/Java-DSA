@@ -7,7 +7,7 @@ public class LongestSubstringWithoutRepeatingTest {
 
     @Test
     public void testCase1() {
-        assertEquals(3, LongestSubstringWithoutRepeating.lengthOfLongestSubstring("abcabcbb"));
+        assertEquals(4 , LongestSubstringWithoutRepeating.lengthOfLongestSubstring("abaabcaacbabdcd"));
     }
 
     @Test
