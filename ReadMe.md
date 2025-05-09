@@ -1,3 +1,6 @@
+## 1.1.1 Integer and Stings are covered 
+- completed up to strings.
+
 ## 1.1.0 Udemy course one added
 - started tracking `i.e writing readme files and versioning`
 - string,integers problems are covered
