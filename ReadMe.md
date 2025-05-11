@@ -1,3 +1,6 @@
+## 1.1.2 Binary search covered
+- completed up to Binary search.
+
 ## 1.1.1 Integer and Stings are covered 
 - completed up to strings.
 
