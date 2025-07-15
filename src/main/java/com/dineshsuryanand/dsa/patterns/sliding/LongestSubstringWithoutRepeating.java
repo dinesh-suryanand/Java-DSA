@@ -1,4 +1,4 @@
-package com.dineshsuryanand.dsa.leetcode.sliding;
+package com.dineshsuryanand.dsa.patterns.sliding;
 
 import java.util.HashMap;
 

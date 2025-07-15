@@ -1,4 +1,4 @@
-package com.dineshsuryanand.dsa.leetcode.array;
+package com.dineshsuryanand.dsa.patterns.array;
 
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;

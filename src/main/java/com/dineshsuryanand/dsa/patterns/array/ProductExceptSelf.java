@@ -1,4 +1,4 @@
-package com.dineshsuryanand.dsa.leetcode.array;
+package com.dineshsuryanand.dsa.patterns.array;
 
 import java.util.Arrays;
 

@@ -1,4 +1,4 @@
-package com.dineshsuryanand.dsa.leetcode.sliding;
+package com.dineshsuryanand.dsa.patterns.sliding;
 
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.assertEquals;

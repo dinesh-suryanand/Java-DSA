@@ -1,7 +1,6 @@
-package com.dineshsuryanand.dsa.leetcode.array;
+package com.dineshsuryanand.dsa.patterns.array;
 
 import java.util.HashMap;
-import java.util.Map;
 
 public class TwoSum {
 
