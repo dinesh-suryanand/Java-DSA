@@ -1,6 +1,9 @@
+## 1.1.4 Binary search covered
+- added random data
+
 ## 1.1.3 Binary search covered
 - added two pointer
-- completed up to Binary search.
+
 
 ## 1.1.2 Binary search covered
 - completed up to Binary search.
